@@ -10,7 +10,7 @@ body {
     color: #fff;
 }
 
-a {
+.link--cta {
     color: #7fffd4;
     font-size: 16px;
 }
