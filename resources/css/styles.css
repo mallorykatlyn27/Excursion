@@ -30,3 +30,11 @@ body {
     color: #7fffd4;
     font-size: 16px;
 }
+
+/* FOOTER */
+
+ .copywrite-excursion {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
